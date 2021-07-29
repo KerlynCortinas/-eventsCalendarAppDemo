@@ -10,6 +10,6 @@
     "type": "git",
     "url": "https://github.com/KerlynCortinas/-eventsCalendarAppDemo"
   },
-  "main": "script.js",
+  "main": "index.html",
   "version": "1.1.1"
 }
